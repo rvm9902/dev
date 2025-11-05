@@ -1,4 +1,9 @@
-body(
-    color: blue;
-    font-size: 40px;
-)
+.navegacao{
+width: 100%; /*largura do menu em relação a largura da página*/
+top: 0; /*menu sempre ficar no topo*/
+position:fixed;
+/* deixa o menu fixo*/
+background:rgba(221, 133, 220, 0.8); /* COR DO FUNDO COM TRANSPARÊNCIA*/
+padding: 1.5rem; /* espaço interno do menu*/
+z-index: 100; /* MENU FICA NA FRENTE DO CONTEÚDO DA PÁGINA*/
+}
