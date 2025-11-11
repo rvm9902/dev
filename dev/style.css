@@ -50,6 +50,36 @@ margin: 5px; /* margem externa do elemento*/
 .div-foto p{
 font-size: 1.5rem;/*rem em relaçao ao tamanho original*/
 color:rgba(238, 34, 133, 0.533);
+
+.sobre{
+/* 6x em relação ao tamanho da letra para cima e baixo
+2x para os lados*/
+padding: 6rem 2rem;
+}
+.sobre-titulo {
+font-size: 2.0rem;
+color: #e2e8f0;
+margin-bottom: 20px;
+text-align: center
+  .sobre-caixa (
+padding:
+2rem;
+max-width:
+600px;
+/*largura máxima*/
+margin:
+0 auto;
+border-radius:
+16px;/*bordas arredondadas*/
+border: 1px solid rgba(255, 255, 255, 0.1); /* define uma borda para o elemento*/
+background:rgba(255, 255, 255, 0.05); /*fundo branco transparente*/
+}
+.sobre-paragrafo
+{
+text-align:
+center;
+font-size
+}
 }
 }
 }
