@@ -18,4 +18,29 @@ background:rgba(221, 133, 220, 0.8); /* COR DO FUNDO COM TRANSPARÊNCIA*/
 padding: 1.5rem; /* espaço interno do menu*/
 z-index: 100; /* MENU FICA NA FRENTE DO CONTEÚDO DA PÁGINA*/
   transition: width 0.5s ease; /*transição suave na largura*/
+  .foto-perfil
+width:
+200px; /*
+Define largura */
+height:
+200px;
+/*
+Define altura */
+Box-shadow: 0 0 20px rgba(79, 70, 229, 0.3); /* Sombra externa */
+border-radius:
+50%;
+/*
+Arredonda bordas */
+border: 4px
+
+  .principal{
+}
+min-height: 100vh; / Altura mínima tela */
+display: flex; /* Ativa flexbox layout */
+justify-content: center; /* Centraliza horizon
+align-items: center; /* Centraliza verticalmen
+flex-direction: column; /* Direção coluna */
+.div-foto{
+text-align: center; /* Centraliza texto */
+}
 }
