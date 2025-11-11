@@ -42,5 +42,14 @@ align-items: center; /* Centraliza verticalmen
 flex-direction: column; /* Direção coluna */
 .div-foto{
 text-align: center; /* Centraliza texto */
+  .div-foto h1{
+font-size: 35px;
+color: rgb(222, 51, 60);
+margin: 5px; /* margem externa do elemento*/
+}
+.div-foto p{
+font-size: 1.5rem;/*rem em relaçao ao tamanho original*/
+color:rgba(238, 34, 133, 0.533);
+}
 }
 }
