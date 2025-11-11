@@ -17,4 +17,5 @@ position:fixed;
 background:rgba(221, 133, 220, 0.8); /* COR DO FUNDO COM TRANSPARÊNCIA*/
 padding: 1.5rem; /* espaço interno do menu*/
 z-index: 100; /* MENU FICA NA FRENTE DO CONTEÚDO DA PÁGINA*/
+  transition: width 0.5s ease; /*transição suave na largura*/
 }
